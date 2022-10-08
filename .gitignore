@@ -1,0 +1,4 @@
+#不上传的项目
+.idea/
+.idea
+node_modules/
