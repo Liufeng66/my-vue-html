@@ -16,7 +16,7 @@ export default new VueRouter({
     routes: [
         {
             path: "/",
-            redirect:"/index"
+            redirect: "/index"
         },
         {
             // path是路径
@@ -26,8 +26,7 @@ export default new VueRouter({
         },
         {
             path: "/story",
-            component: Story
-
+            component: Story,
         },
 
         {
@@ -37,17 +36,14 @@ export default new VueRouter({
         {
             path: "/equipment",
             component: Equipment
-
         },
         {
             path: "/monster",
             component: Monster
-
         },
         {
             path: "/download",
             component: Download
-
         }
 
 

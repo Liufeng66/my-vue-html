@@ -1,11 +1,11 @@
 <template>
-    <div>游戏下载</div>
+  <div>游戏下载</div>
 </template>
 
 <script>
-    export default {
-        name: "Download"
-    }
+export default {
+  name: "Download"
+}
 </script>
 
 <style scoped>
